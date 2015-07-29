@@ -7,18 +7,19 @@
 //
 
 #include <iostream>
+#include "People.h"
 
-class People {
-public:
-    void sayHello(){
-        printf("Hello Cpp!");
-    }
-};
+//class People {
+//public:
+//    void sayHello(){
+//        printf("Hello Cpp!");
+//    }
+//};
 
 int main(int argc, const char * argv[]) {
     People *p = new People();
     p->sayHello();
-    
+    delete p;
     
     return 0;
 }
