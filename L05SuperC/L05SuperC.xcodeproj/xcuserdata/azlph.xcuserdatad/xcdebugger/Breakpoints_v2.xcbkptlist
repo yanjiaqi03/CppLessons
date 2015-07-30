@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "L05SuperC/Man.cpp"
+            timestampString = "459922767.681342"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "Man::Man(int age)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "xiaohuai::Man::Man(int)"
+                  moduleName = "L05SuperC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/azlph/Documents/CppLessons/L05SuperC/L05SuperC/Man.cpp"
+                  timestampString = "459922768.103918"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "xiaohuai::Man::Man(int)"
+                  moduleName = "L05SuperC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/azlph/Documents/CppLessons/L05SuperC/L05SuperC/Man.cpp"
+                  timestampString = "459922768.105716"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "19">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "L05SuperC/Man.cpp"
+            timestampString = "459922783.908176"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "Man::Man()"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "xiaohuai::Man::Man()"
+                  moduleName = "L05SuperC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/azlph/Documents/CppLessons/L05SuperC/L05SuperC/Man.cpp"
+                  timestampString = "459922783.911759"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "21">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "xiaohuai::Man::Man()"
+                  moduleName = "L05SuperC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/azlph/Documents/CppLessons/L05SuperC/L05SuperC/Man.cpp"
+                  timestampString = "459922783.912123"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "L05SuperC/Man.cpp"
+            timestampString = "459922784.619902"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "Man::Man(int age)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "xiaohuai::Man::Man(int)"
+                  moduleName = "L05SuperC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/azlph/Documents/CppLessons/L05SuperC/L05SuperC/Man.cpp"
+                  timestampString = "459922784.623041"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "xiaohuai::Man::Man(int)"
+                  moduleName = "L05SuperC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/azlph/Documents/CppLessons/L05SuperC/L05SuperC/Man.cpp"
+                  timestampString = "459922784.623442"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "19">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
