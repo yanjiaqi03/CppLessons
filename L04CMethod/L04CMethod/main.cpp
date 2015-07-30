@@ -9,7 +9,6 @@
 #include <iostream>
 
 class Object {
-    
 public:
     Object(){
         printf("Create Object\n");
